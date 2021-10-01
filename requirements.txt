@@ -1,0 +1,4 @@
+torch==1.9.1
+matplotlib==3.3.4
+pandas==1.1.5
+learn2learn==0.1.6
