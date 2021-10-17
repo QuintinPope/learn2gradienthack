@@ -1,5 +1,5 @@
 # learn2gradienthack
-Uses learn2learn to train a fully connected network that implements the constant function and resists SGD. Adapted from: https://github.com/learnables/learn2learn/blob/master/examples/vision/maml_omniglot.py
+Uses learn2learn to train a fully connected network that implements the constant function and resists being updated by gradient descent. Adapted from: https://github.com/learnables/learn2learn/blob/master/examples/vision/maml_omniglot.py
 
 
 Sample command: 
